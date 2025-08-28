@@ -7,11 +7,8 @@ import numpy as np
 import matplotlib.pyplot as plt
 import matplotlib.ticker as ticker
 
-loc = "/media/andrewhardy/9C33-6BBD/t_J/MFT/"
-#loc = "/home/andrewhardy/Documents/Graduate/CCQ/Data/t_J_Data/"
-os.getcwd()
 
-filename = "05.07-3.2025_kitaev"
+os.getcwd()
 filename = "06.26.2025_kitaev"
 
 plt.style.use("lake.mplstyle")

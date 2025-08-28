@@ -5,8 +5,6 @@ from pathlib import Path
 import os,sys
 import numpy as np
 import matplotlib.pyplot as plt
-loc = "/media/andrewhardy/9C33-6BBD/t_J/MFT/"
-#loc = "/home/andrewhardy/Documents/Graduate/CCQ/Data/t_J_Data/"
 os.getcwd()
 
 filename = "05.04-3.2025_kitaev_ferro"

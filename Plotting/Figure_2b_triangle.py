@@ -5,11 +5,9 @@ from pathlib import Path
 import os,sys
 import numpy as np
 import matplotlib.pyplot as plt
-loc = "/media/andrewhardy/9C33-6BBD/t_J/MFT/"
 from mpl_toolkits.axes_grid1.inset_locator import inset_axes
 os.getcwd()
 
-filename = "05.07-3.2025_kitaev"
 filename = "05.04-3.2025_kitaev"
 
 plt.style.use("lake.mplstyle")

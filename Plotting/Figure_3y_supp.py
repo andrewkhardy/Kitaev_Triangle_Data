@@ -6,13 +6,7 @@ import os,sys
 import numpy as np
 import matplotlib.pyplot as plt
 import matplotlib.ticker as ticker
-
-loc = "/media/andrewhardy/9C33-6BBD/t_J/MFT/"
-#loc = "/home/andrewhardy/Documents/Graduate/CCQ/Data/t_J_Data/"
 os.getcwd()
-
-filename = "05.07-3.2025_kitaev"
-#filename = "06.26.2025_triangle"
 filename = "05.06-3.2025_kitaev"
 
 plt.style.use("lake.mplstyle")
@@ -144,3 +138,4 @@ plt.show()
 # plt.tight_layout()
 # plt.savefig("Figure_2a.pdf", format="pdf", bbox_inches='tight')
 # plt.show()
+
